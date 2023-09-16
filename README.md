@@ -51,3 +51,6 @@ Morgan Mutugi is a Kenyan based software developer proficient in various technol
 ### My GitHub Stats
 
 <a href="https://github.com/morgan4080" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgan4080&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![Morgans's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=morgan4080&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Morgans's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=morgan4080&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
