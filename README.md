@@ -3,7 +3,7 @@
 Web Developer
 -------------
 
-Morgan Mutugi is a Kenyan based software developer proficient in various technologies mainly Vuejs, ReactJs, React Native, NodeJS, Android.
+Morgan Mutugi is a Kenyan based software developer proficient in various technologies mainly Vuejs, ReactJs, React Native, NodeJS, Kotlin Multiplatform, Android.
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [MyPortfolio](https://morganmutugi.co.ke)
