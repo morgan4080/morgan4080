@@ -3,19 +3,21 @@
 Fullstack Developer
 -------------
 
-Morgan Mutugi is a Kenyan based software developer proficient in various technologies mainly ReactJs, React Native, NodeJS, Kotlin Multiplatform, Android.
+Morgan Mutugi is a Kenyan based Full-stack software developer proficient in various programming languages mainly;
+* Elixir (Phoenix Framework and Liveview)
+* Kotlin (Kotlin Multiplatform, Android, RN Turbo Native Modules).
+* Javascript (ReactJs, React Native, VueJS, NodeJS)
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [MyPortfolio](https://morganmutugi.co.ke)
 * ✉️  You can contact me at [morganmurungi@live.com](mailto:morganmurungi@live.com)
-* 🧠  I'm learning Kotlin Multiplatfotm and Flutter
-* 🤝  I'm open to collaborating on any NodeJS, Vuejs or ReactJs Projects.
 
 ### Skills
 
 <p align="left">
+<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"><img src="https://elixir-lang.org/images/logo/logo.png" width="112" height="36" alt="Elixir Programming" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://kotlinlang.org/docs/images/kotlin-logo.png" width="112" height="36" alt="Kotlin Language" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
