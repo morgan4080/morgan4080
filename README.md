@@ -5,7 +5,7 @@ Fullstack Developer
 
 Morgan Mutugi is a Kenyan based Full-stack software developer proficient in various programming languages mainly;
 * Elixir (Phoenix Framework and Liveview)
-* Kotlin (Kotlin Multiplatform, Android, RN Turbo Native Modules).
+* Kotlin (Kotlin Multiplatform, Android, React Native JSI § Turbo Modules).
 * Javascript (ReactJs, React Native, VueJS, NodeJS)
 
 * 🌍  I'm based in Nairobi
