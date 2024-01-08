@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Morgan Mutugi
 
-Fullstack Developer
+Software Engineer
 -------------
 
 Morgan Mutugi is a software engineer proficient in various programming languages and technologies mainly;
